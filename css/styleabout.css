@@ -1,0 +1,143 @@
+body{
+	font-size:15px;
+
+}
+p{
+	line-height:1.8;
+}
+#wrapper{
+	align-content: center;
+	max-width:70%;
+	padding:0px;
+	margin: 0 auto;
+}
+a{
+	color:white;
+	background-color:;
+	margin:50px;
+	padding:20px;
+	width:50px;
+}
+#left{
+	float:left;
+	max-width:20%;
+	padding:0px;
+	background-color:blue;
+	align-content: left;
+
+}
+#photo{
+	padding:16px;
+}
+.right a{
+	color:white;
+	background-color:#85714D;
+	padding:70px;
+	margin:10px;
+	clear:right;
+}
+#right{
+	float: right;
+	max-width:70%;
+	background-color:;
+	padding:50px;
+	clear:right;
+}
+
+.clearfix after{
+	visibility:hidden;
+	display:block;
+	font-size:0;
+	content:"";
+	clear:both;
+	height:0;
+
+}
+.nav {  
+
+}
+div {
+  height: 90px;
+  line-height: 49px;
+  text-align: ;
+  clear:left;
+}
+
+ul{
+	list-style-type:none;
+	margin:0px;
+	padding:0;
+	width:200px;
+	font-size:16px;
+	font-family: Arial, sans-serif;
+	height: 100%; /* Full height */
+    position: absolute; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+
+}
+li a{
+    display: block;
+    width: 45%;
+    padding: 5px 17px;
+    height:43px;
+    text-decoration: none;
+    text-align:center;
+}
+#one{
+	background-color: #29abe2;
+}
+#two{
+	background-color:#e27429;
+}
+#three{
+	background-color:#0e6d95;
+}
+#four{
+	background-color: #af5831;
+}
+#five{
+	background-color:#0a2b39;
+}
+img{
+	align-content:center;
+}
+#six{
+	background-color:#0a2b39;
+	color:#0a2b39;
+}
+#seven{
+	background-color:#0a2b39;
+	color:#0a2b39;
+}
+#eight{
+	background-color:#0a2b39;
+	color:#0a2b39;
+}
+#nine{
+	background-color:#0a2b39;
+	color:#0a2b39;
+}
+#ten{
+	background-color:#0a2b39;
+	color:#0a2b39;
+}
+h1{
+	text-align:center;
+	color:#af5831;
+	font-size:3em;
+	padding:0px;
+	font-family: Arial, sans-serif;
+}
+h2{
+	clear:right;
+	font-family: Arial, sans-serif;
+	padding: 1px;
+	font-size:1em;
+}
+li{
+	font-family: Arial, sans-serif;
+}
+p{
+	position:relative;
+	top:10px;
+}
