@@ -125,3 +125,6 @@ h1{
 .pic{
 	margin:5px;
 }
+@media only screen and (max-width: 750px) { 
+     /*Insert Styles Here*/ 
+}
