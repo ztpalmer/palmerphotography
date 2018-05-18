@@ -43,9 +43,7 @@ a{
 	height:0;
 
 }
-@media only screen and (max-width: 200px) { 
-     /*Insert Styles Here*/ 
-}
+
 .nav {  
 
 }
@@ -118,4 +116,7 @@ h1{
 	color:#af5831;
 	font-size:42px;
 
+}
+@media only screen and (max-width: 800px) { 
+     /*Insert Styles Here*/ 
 }
